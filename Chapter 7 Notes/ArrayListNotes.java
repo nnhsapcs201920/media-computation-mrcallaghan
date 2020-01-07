@@ -1,9 +1,10 @@
 /**
- * Write a description of class ArrayListNotes here.
+ * Notes on ArrayLists.
  *
- * @author gcschmit
- * @version 5 December 2017
+ * @author mcallaghan
+ * @version 7 January 2020
  */
 public class ArrayListNotes
 {
+    
 }
